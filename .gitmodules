@@ -1142,5 +1142,5 @@
 	path = themes/acs
 	url = https://github.com/dracula/acs.git
 [submodule "themes/dRacula"]
-	path = dRacula
+	path = themes/dRacula
 	url = https://github.com/dracula/dRacula.git
